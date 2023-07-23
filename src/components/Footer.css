@@ -1,0 +1,105 @@
+/* 
+
+
+.footer {
+    width: 100%;
+    max-width: 1349px;
+    height: 413px;
+    background-color: #00B4D8;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-columns {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .footer-column {
+    flex: 1;
+  }
+  
+  .footer-item {
+    margin-bottom: 10px;
+  }
+  
+  /* Set background color and text color for headings */
+  /* .footer-item h1 {
+    color: white;
+    background-color: #00B4D8;
+    padding: 5px;
+  } */
+
+
+
+  /* Footer.css */
+.footer {
+    width: 100%;
+    max-width: 1349px;
+    height: 413px;
+    background-color: #00B4D8;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-columns {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .footer-column {
+    flex: 1;
+  }
+  
+  .footer-item {
+    margin-bottom: 10px;
+    background-color: #00B4D8; /* Add blue background color to the footer item */
+  }
+  
+  /* Set text color for headings */
+  .footer-item h1 {
+    color: white;
+    margin: 0; /* Remove default margin */
+    padding: 5px; /* Add padding to the headings */
+  }
+
+  
+ /* Your other CSS styles */
+
+.write {
+    font-family: "Lato";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin-left: 10px; /* Add a little margin on the left side */
+  }
+
+  .icons{
+    width: 24px;
+height: 24px;
+top: 134px;
+left: 740px;
+padding: 2px 6px 2px 7px;
+
+  }
+  
+  /* Your other CSS styles */
+  
+  /* Your other CSS styles */
+
+  
+  
+  
+  
+  

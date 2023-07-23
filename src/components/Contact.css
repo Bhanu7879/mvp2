@@ -1,0 +1,90 @@
+/* 
+.image-overlay-container1 {
+    position: relative;
+    width: 100%; 
+    height: 0;
+    padding-top: calc(565 / 1349 * 100%); 
+    overflow: hidden;
+  }
+  
+
+  .image-overlay-background1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    height: 100%;
+    background-image: url('../assets/avatar2.png');
+    background-size: cover;
+    filter: blur(8px);
+    z-index: -1; 
+  }
+  
+  .centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .responsive-heading {
+    font-size: 32px; 
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+*/
+
+
+/* ContactPage.css */
+
+/* Container for the blurred image and centered text */
+.image-overlay-container1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-top: calc(565 / 1349 * 100%); /* Maintain aspect ratio based on frame size */
+    overflow: hidden;
+  }
+  
+  /* Blurred image */
+  .image-overlay-background1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../assets/home.jpeg');
+    background-size: cover;
+    filter: blur(8px); /* Adjust the blur amount as needed */
+    z-index: -1; /* Set the image behind the text */
+  }
+  
+  /* Centered text */
+  .centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; /* Adjust the text color as needed */
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  /* Heading style */
+  .responsive-heading {
+    font-size: 32px; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px; /* Add spacing between heading and paragraph */
+  }
+  
+  /* Contact Form CSS */
+  /* Add your ContactForm.css styles here */
+  

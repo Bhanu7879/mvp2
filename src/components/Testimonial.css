@@ -1,0 +1,49 @@
+/* CardStyles.css */
+
+/* Card container styles */
+.card-container {
+    width: 300px;
+    height: calc(300px * 0.8); /* Calculate the height based on the aspect ratio (4:5) */
+    border-radius: 14px;
+    padding: 20px;
+    background-color: #f0f0f0; /* Adjust the background color as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /* Avatar image styles */
+  .avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  /* Quote text styles */
+  .quote {
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+  }
+  .responsive-heading {
+    font-size: 32px; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px; /* Add spacing between heading and paragraph */
+  }
+
+  .responsive-paragraph {
+    font-size: 16px; /* Adjust the font size as needed */
+    text-align: center;
+  }
+
+  .responsive-heading2 {
+    font-size: 15px; /* Adjust the font size as needed */
+    /* font-weight: bold; */
+    text-align: center;
+    margin-bottom: 5px; /* Add spacing between heading and paragraph */
+    color:  #03045E;
+    ;
+  }

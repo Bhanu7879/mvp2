@@ -1,0 +1,50 @@
+/* ResponsiveContainer.css */
+
+/* Container for the heading and paragraph */
+.responsive-container {
+    width: 100%;
+    max-width: 1349px;
+   
+    margin: 0 auto;
+    padding: 20px; /* Adjust the padding as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: Fixed (1,240px);
+height: Fixed (213px);
+top: 67px;
+left: 55px;
+gap: 40px
+
+  }
+  
+  /* Heading style */
+  .responsive-heading {
+    font-size: 32px; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px; /* Add spacing between heading and paragraph */
+    color:  #03045E;
+    ;
+  }
+  
+  /* Paragraph style */
+  .responsive-paragraph {
+    font-size: 16px; /* Adjust the font size as needed */
+    text-align: center;
+  }
+  /* ResponsiveContainer.css */
+
+/* ... your existing CSS ... */
+
+/* Adjust font size for smaller screens */
+@media screen and (max-width: 600px) {
+    .responsive-heading {
+      font-size: 24px;
+    }
+    .responsive-paragraph {
+      font-size: 14px;
+    }
+  }
+  
