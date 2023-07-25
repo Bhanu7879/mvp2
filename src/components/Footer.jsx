@@ -1,7 +1,7 @@
 import * as React from 'react';
-import { styled } from '@mui/material/styles';
+
 import Box from '@mui/material/Box';
-import Paper from '@mui/material/Paper';
+
 import Grid from '@mui/material/Grid';
 import './Footer.css';
 const facebook = <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
