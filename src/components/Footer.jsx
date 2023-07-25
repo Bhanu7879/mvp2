@@ -23,13 +23,7 @@ const instagram= <svg width="24" height="25" viewBox="0 0 24 25" fill="none" xml
 
 
 
-const Item = styled(Paper)(({ theme }) => ({
-//   backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#00B4D8',
-//   ...theme.typography.body2,
-//   padding: theme.spacing(1),
-//   textAlign: 'center',
-//   color: theme.palette.text.secondary,
-}));
+
 
 const Footer = () => {
   return (
