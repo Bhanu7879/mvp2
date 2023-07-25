@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
@@ -11,7 +11,7 @@ import Portfolio from './components/Portfolio';
 import Testimonial from './components/Testimonial';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import { Element } from 'react-scroll';
+
 
 
 function App() {
