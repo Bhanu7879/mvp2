@@ -1,7 +1,7 @@
 // ImageOverlay.js
 import React from 'react';
 import './HomePage.css';
-import homeImage from '../assets/home.jpeg';
+import homeImage from '../assets/heroImage99.jpg';
 
 
 const HomePage = () => {
@@ -13,8 +13,7 @@ const HomePage = () => {
 
       <div className="centered-text">
         {/* Add your centered text here */}
-        Your Centered Text
-      </div>
+        A passionate team of young tech enthusiasts is dedicated to bringing your ideas to life.      </div>
     </div>
   );
 };

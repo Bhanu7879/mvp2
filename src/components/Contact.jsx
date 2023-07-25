@@ -1,7 +1,7 @@
 // Contact.js
 import React from 'react';
 import './Contact.css';
-import homeImage from '../assets/home.jpeg';
+import homeImage from '../assets/heroImage9.jpg';
 
 
 import { styled } from '@mui/material/styles';
@@ -35,8 +35,8 @@ const Contact = () => {
 
 
       <div className="centered-text">
-     
-        Your Centered Text
+     Centered text
+      
       </div>
     </div>
     

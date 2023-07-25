@@ -59,7 +59,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../assets/home.jpeg');
+    background-image: url('../assets/heroImage9.jpg');
     background-size: cover;
     filter: blur(8px); /* Adjust the blur amount as needed */
     z-index: -1; /* Set the image behind the text */
