@@ -7,7 +7,7 @@ import homeImage from '../assets/heroImage99.jpg';
 const HomePage = () => {
   return (
     <div className="image-overlay-container">
-            <img src={homeImage}  maxWidth="xl"/>
+            <img src={homeImage}  maxWidth="xl" alt="home"/>
       <div className="image-overlay-background" />
   
 
