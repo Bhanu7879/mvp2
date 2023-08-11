@@ -1,12 +1,12 @@
 /* ResponsiveContainer.css */
 
 /* Container for the heading and paragraph */
-.responsive-container {
+/* .responsive-container {
     width: 100%;
     max-width: 1349px;
    
     margin: 0 auto;
-    padding: 20px; /* Adjust the padding as needed */
+    padding: 20px; 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,36 +17,32 @@ top: 67px;
 left: 55px;
 gap: 40px
 
-  }
+  } */
   
   /* Heading style */
-  .responsive-heading {
-    font-size: 32px; /* Adjust the font size as needed */
+  /* .responsive-heading {
+    font-size: 32px; 
     font-weight: bold;
     text-align: center;
-    margin-bottom: 10px; /* Add spacing between heading and paragraph */
+    margin-bottom: 10px;
     color:  #03045E;
     ;
-  }
-  .responsive-heading1 {
-    font-size: 25px; /* Adjust the font size as needed */
-    /* font-weight: bold; */
+  } */
+  /* .responsive-heading1 {
+    font-size: 25px;
+
     text-align: center;
-    margin-bottom: 10px; /* Add spacing between heading and paragraph */
+    margin-bottom: 10px; 
     color:  #03045E;
     ;
-  }
+  } */
   
   /* Paragraph style */
-  .responsive-paragraph {
-    font-size: 16px; /* Adjust the font size as needed */
+  /* .responsive-paragraph {
+    font-size: 16px; 
     text-align: center;
   }
-  /* ResponsiveContainer.css */
 
-/* ... your existing CSS ... */
-
-/* Adjust font size for smaller screens */
 @media screen and (max-width: 600px) {
     .responsive-heading {
       font-size: 24px;
@@ -55,4 +51,4 @@ gap: 40px
       font-size: 14px;
     }
   }
-  
+   */

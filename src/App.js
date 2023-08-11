@@ -7,7 +7,7 @@ import  TopAppBar  from './components/TopAppBar';
 //import  Home  from './components/Home';
 import HomePage from '../src/components/HomePage'
 import WhoAreWe from '../src/components/WhoAreWe'
-import Portfolio from './components/Portfolio';
+//import Portfolio from './components/Portfolio';
 import Testimonial from './components/Testimonial';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
