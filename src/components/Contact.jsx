@@ -28,7 +28,7 @@ const Contact = () => {
 
 
       <div className="centered-text">
-     Centered text
+     Reachout to us, for any tech outsourcing, worry not for the tech part...concentrate other hardships of being an entrepreneur.
       
       </div>
     </div>

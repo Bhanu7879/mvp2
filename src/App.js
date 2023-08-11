@@ -22,7 +22,7 @@ function App() {
 <TopAppBar/>
 <HomePage/>
 <WhoAreWe/>
-<Portfolio/>
+{/* <Portfolio/> */}
 <Box sx={{ my: 5 }}><Testimonial/></Box>
 <Contact/>
 <Footer/>
